@@ -112,8 +112,8 @@ body {
 }
 
 .round-image {
-    width: 500px; /* Set the width of the image */
-    height: 500px; /* Set the height of the image (same as width for a perfect circle) */
+    width: 400px; /* Set the width of the image */
+    height: 400px; /* Set the height of the image (same as width for a perfect circle) */
     border-radius: 50%; /* Makes the image round */
     object-fit: cover; /* Ensures the image covers the container without distortion */
     border: 5px solid #fff; /* Optional: adds a border around the image */
